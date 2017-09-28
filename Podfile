@@ -11,7 +11,7 @@ platform :ios, '10.0'
 use_frameworks!
 
 # Need to identify the xcodeproject for the additional build specs
-project 'SimpleProject', 'CopyOfDebug' => :debug
+project 'SimpleProject', 'Copy Of Debug' => :debug
 
 # Explicilty name the workspace
 workspace 'SimpleProject'
